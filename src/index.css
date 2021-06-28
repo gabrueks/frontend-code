@@ -1,0 +1,126 @@
+body {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: white;
+}
+
+hr {
+    margin: 55px 0;
+    border: 0;
+    border-bottom: 1px solid #ebebeb;
+}
+
+.stroke {
+    border-bottom: 1px solid black;
+}
+
+.menuBorder {
+    border-top: thin solid grey;
+    border-color: rgb(230, 230, 230);
+}
+
+.page-width {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+@media only screen and (max-width: 750px) {
+    .page-width {
+        padding-left: 22px;
+        padding-right: 22px;
+    }
+
+    label {
+        font-size: 14px;
+    }
+
+    .columnMobile {
+        flex-direction: column !important;
+    }
+}
+
+.site-footer__hr {
+    border-bottom: 1px solid #dddddd;
+    margin: 55px 0 30px 0;
+}
+
+@media only screen and (min-width: 750px) {
+    .site-footer__hr {
+        margin: 45px 0 20px 0;
+    }
+
+    select {
+        padding-top: 10px;
+        padding-left: 18px;
+        padding-bottom: 10px;
+    }
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    line-height: 1.5;
+    color: #3a3a3a;
+    font-family: "Roboto";
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.social-ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+li {
+    list-style: none;
+}
+
+@media (max-width: 400px) {
+    .social-ul {
+        flex-direction: column;
+    }
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+select {
+    display: block;
+    max-width: 100%;
+    width: 100%;
+
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    background-color: #fff;
+
+    color: #000;
+    line-height: 1.2;
+    font-family: "Roboto";
+    font-weight: 300;
+    font-size: 16px;
+
+    padding-right: 28px;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+
+    margin-bottom: 19.44444px;
+
+    appearance: none;
+    background-position: 98.5% center;
+    background-image: url("/arrowDown.svg");
+    background-repeat: no-repeat;
+}

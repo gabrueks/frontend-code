@@ -1,0 +1,308 @@
+[
+    {
+        "id": 402363711649,
+        "name": "Brazil",
+        "tax": 0.17,
+        "code": "BR",
+        "tax_name": "VAT",
+        "provinces": [
+            {
+                "id": 4137449226401,
+                "country_id": 402363711649,
+                "name": "Acre",
+                "code": "AC",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            },
+            {
+                "id": 4137449259169,
+                "country_id": 402363711649,
+                "name": "Alagoas",
+                "code": "AL",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            },
+            {
+                "id": 4137449291937,
+                "country_id": 402363711649,
+                "name": "Amapá",
+                "code": "AP",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            },
+            {
+                "id": 4137449324705,
+                "country_id": 402363711649,
+                "name": "Amazonas",
+                "code": "AM",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            },
+            {
+                "id": 4137449357473,
+                "country_id": 402363711649,
+                "name": "Bahia",
+                "code": "BA",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            },
+            {
+                "id": 4137449390241,
+                "country_id": 402363711649,
+                "name": "Ceará",
+                "code": "CE",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            },
+            {
+                "id": 4137449423009,
+                "country_id": 402363711649,
+                "name": "Distrito Federal",
+                "code": "DF",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            },
+            {
+                "id": 4137449455777,
+                "country_id": 402363711649,
+                "name": "Espírito Santo",
+                "code": "ES",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            },
+            {
+                "id": 4137449488545,
+                "country_id": 402363711649,
+                "name": "Goiás",
+                "code": "GO",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            },
+            {
+                "id": 4137449521313,
+                "country_id": 402363711649,
+                "name": "Maranhão",
+                "code": "MA",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            },
+            {
+                "id": 4137449554081,
+                "country_id": 402363711649,
+                "name": "Mato Grosso",
+                "code": "MT",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            },
+            {
+                "id": 4137449586849,
+                "country_id": 402363711649,
+                "name": "Mato Grosso do Sul",
+                "code": "MS",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            },
+            {
+                "id": 4137449619617,
+                "country_id": 402363711649,
+                "name": "Minas Gerais",
+                "code": "MG",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            },
+            {
+                "id": 4137449652385,
+                "country_id": 402363711649,
+                "name": "Pará",
+                "code": "PA",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            },
+            {
+                "id": 4137449685153,
+                "country_id": 402363711649,
+                "name": "Paraíba",
+                "code": "PB",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            },
+            {
+                "id": 4137449717921,
+                "country_id": 402363711649,
+                "name": "Paraná",
+                "code": "PR",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            },
+            {
+                "id": 4137449750689,
+                "country_id": 402363711649,
+                "name": "Pernambuco",
+                "code": "PE",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            },
+            {
+                "id": 4137449783457,
+                "country_id": 402363711649,
+                "name": "Piauí",
+                "code": "PI",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            },
+            {
+                "id": 4137449816225,
+                "country_id": 402363711649,
+                "name": "Rio de Janeiro",
+                "code": "RJ",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            },
+            {
+                "id": 4137449848993,
+                "country_id": 402363711649,
+                "name": "Rio Grande do Norte",
+                "code": "RN",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            },
+            {
+                "id": 4137449881761,
+                "country_id": 402363711649,
+                "name": "Rio Grande do Sul",
+                "code": "RS",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            },
+            {
+                "id": 4137449914529,
+                "country_id": 402363711649,
+                "name": "Rondônia",
+                "code": "RO",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            },
+            {
+                "id": 4137449947297,
+                "country_id": 402363711649,
+                "name": "Roraima",
+                "code": "RR",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            },
+            {
+                "id": 4137449980065,
+                "country_id": 402363711649,
+                "name": "Santa Catarina",
+                "code": "SC",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            },
+            {
+                "id": 4137450012833,
+                "country_id": 402363711649,
+                "name": "São Paulo",
+                "code": "SP",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            },
+            {
+                "id": 4137450045601,
+                "country_id": 402363711649,
+                "name": "Sergipe",
+                "code": "SE",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            },
+            {
+                "id": 4137450078369,
+                "country_id": 402363711649,
+                "name": "Tocantins",
+                "code": "TO",
+                "tax": 0,
+                "tax_name": "ICMS",
+                "tax_type": null,
+                "shipping_zone_id": null,
+                "tax_percentage": 0
+            }
+        ]
+    }
+]

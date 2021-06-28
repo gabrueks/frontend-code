@@ -1,0 +1,74 @@
+{
+    "name": "comprasdolado",
+    "version": "0.1.0",
+    "author": "Darez",
+    "private": false,
+    "main": "index.tsx",
+    "dependencies": {
+        "@apollo/client": "^3.3.16",
+        "axios": "^0.21.1",
+        "constate": "^3.2.0",
+        "google-map-react": "^2.1.9",
+        "graphql": "^15.5.0",
+        "i18next": "^20.3.0",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "react-expand-animated": "^1.0.2",
+        "react-i18next": "^11.9.0",
+        "react-icons": "^3.10.0",
+        "react-redux": "^7.2.3",
+        "react-router-dom": "^5.2.0",
+        "redux": "^4.0.5",
+        "redux-thunk": "^2.3.0",
+        "shopify-buy": "^2.11.0",
+        "styled-components": "^5.2.3",
+        "styled-system": "^5.1.5",
+        "universal-cookie": "^4.0.4"
+    },
+    "devDependencies": {
+        "@commitlint/cli": "^12.1.1",
+        "@commitlint/config-conventional": "^12.1.1",
+        "@types/google-map-react": "^2.1.0",
+        "@types/node": "^15.0.0",
+        "@types/react": "^17.0.4",
+        "@types/react-dom": "^17.0.3",
+        "@types/react-router-dom": "^5.1.7",
+        "@types/styled-components": "^5.1.9",
+        "@types/styled-system": "^5.1.11",
+        "@typescript-eslint/eslint-plugin": "^4.22.0",
+        "@typescript-eslint/parser": "^4.22.0",
+        "eslint": "^6.6.0",
+        "eslint-config-prettier": "^8.3.0",
+        "eslint-plugin-prettier": "^3.4.0",
+        "eslint-plugin-react": "^7.23.2",
+        "eslint-plugin-react-hooks": "^4.2.0",
+        "husky": "^6.0.0",
+        "prettier": "^2.2.1",
+        "react-scripts": "3.4.1",
+        "typescript": "^4.2.4"
+    },
+    "resolutions": {
+        "@babel/core": "^7.12.3"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject",
+        "format": "prettier --write src/**/*.{j,t}s{,x}",
+        "lint": "tsc --noEmit && eslint src/**/*.{j,t}s{,x}"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "license": "ISC"
+}
